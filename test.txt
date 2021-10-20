@@ -1,1 +1,2 @@
 I'm in my way to be a tester
+I'm beginning to understand Git !
