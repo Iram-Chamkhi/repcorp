@@ -1,3 +1,3 @@
 I'm in my way to be a tester
 I'm beginning to understand Git !
-this text is specially added for feature branch
+this text is speciallyy added for feature branch
